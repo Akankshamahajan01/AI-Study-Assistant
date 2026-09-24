@@ -3,7 +3,8 @@
 📌 Project Information
 
 Project Name: AI Study Assistant
-Repository: https://github.com/Sumit3465/AI-Study-Assistant
+
+Repository: https://github.com/Akankshamahajan01/AI-Study-Assistant.git
 
 Demo:- https://ai-study-assistant-h8mk.onrender.com
 
